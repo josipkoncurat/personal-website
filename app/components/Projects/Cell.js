@@ -13,9 +13,9 @@ const Cell = ({ data }) => (
       <a href={data.link} className="image">
         <img src={url.resolve(BASE_PATH, data.image)} alt={data.title} />
       </a>
-      <div className="description">
+      {/* <div className="description">
         <p>{data.desc}</p>
-      </div>
+      </div> */}
     </article>
   </div>
 );

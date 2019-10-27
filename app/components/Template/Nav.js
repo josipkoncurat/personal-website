@@ -20,9 +20,8 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Josip. I am a Petroleum Engineer with 2.5 years of experience in the oil&gas industry turned software developer. 
-        Highly motivated and ambitious enough to make a career change in pursuit of fulfilling work. 
-        Strong skills in core Java and Android framework.
+      <p>Hi, I&apos;m Josip. I am a Petroleum Engineer with 2.5 years of experience in the oil&gas industry turned Software Developer. 
+        Highly motivated and ambitious enough to make a career change in pursuit of fulfilling work.
       </p>
       <ul className="actions">
         <li>

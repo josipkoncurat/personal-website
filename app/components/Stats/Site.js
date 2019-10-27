@@ -5,7 +5,7 @@ import data from '../../data/github';
 
 const Stats = () => (
   <div>
-    <h3>Some stats about this site</h3>
+    {/* <h3>Some stats about this site</h3> */}
     <Table
       data={data}
     />

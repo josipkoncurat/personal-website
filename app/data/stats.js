@@ -5,12 +5,12 @@ const data = {
   },
   countries: {
     label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    value: 11,
+    link: 'https://www.google.com/maps/d/embed?mid=1iCSehP4xmQx_PotEqGwrIOBFxCDRQPEV',
   },
   location: {
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Zagreb, Croatia',
   },
 };
 

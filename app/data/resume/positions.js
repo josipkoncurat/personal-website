@@ -9,8 +9,8 @@ const positions = [
     points: [
       'Working on enterprise level applications as a fullstack developer.',
       'Server side: Java - Spring framework.',
-      'Presentation layer: Java Server Pages + Portlet Specification.',
-      'Database layer: DB2.'
+      'Presentation layer: Java Server Pages + Portlet Specification, Angular.',
+      'Database layer: DB2, PostgreSQL, MySQL.'
     ],
   },{
     company: '4Real',

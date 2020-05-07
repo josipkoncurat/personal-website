@@ -100,6 +100,11 @@ export const skills = [
     title: 'Spring Framework',
     compentency: 3,
     category: ['Frameworks'],
+  },
+  {
+    title: 'Angular',
+    compentency: 3,
+    category: ['Frameworks'],
   }
   
 ];
